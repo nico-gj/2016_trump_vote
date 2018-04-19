@@ -1,5 +1,12 @@
 .DS_Store
 *.Rhistory
 *.ipynb_checkpoints
-presentables
+
+# Directories
+deliverables
 output
+input/raw
+
+# Files
+scripts/2_ml_model.ipynb
+scripts/0_data_imports.ipynb
